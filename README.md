@@ -3,7 +3,9 @@ My Config of Waybar that I use with Hyprland.
 
 The config is made up of two files. 
 
-Just paste these files into your.
+# Installation instructions
+Run the following commands:
 ```
-~/.config
+cd ~/.config
+git clone https://github.com/Abdulsarhan/Waybar-Config/waybar
 ```
