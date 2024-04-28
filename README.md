@@ -7,6 +7,6 @@ The config is made up of two files.
 Run the following commands:
 ```
 cd ~/.config
-mkdir waybar
 git clone https://github.com/Abdulsarhan/Waybar-Config
+mv waybar-config waybar
 ```
