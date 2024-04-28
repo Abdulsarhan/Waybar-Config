@@ -8,5 +8,5 @@ Run the following commands:
 ```
 cd ~/.config
 git clone https://github.com/Abdulsarhan/Waybar-Config
-mv waybar-config waybar
+mv Waybar-Config/ waybar/
 ```
